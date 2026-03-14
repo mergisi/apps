@@ -1,33 +1,74 @@
 # Apps by Mustafa Ergisi
 
+[![GitHub followers](https://img.shields.io/github/followers/mergisi?style=social)](https://github.com/mergisi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mustafaergisi?style=social)](https://twitter.com/mustafaergisi)
+
 AI tools, agents & productivity apps. Built solo.
 
-This repo serves as the [wvw.dev](https://wvw.dev) distribution manifest for all my products.
+---
 
-## Apps
+## AI Agents
 
-| App | Platform | Category | Price |
-|-----|----------|----------|-------|
-| [CrewClaw](https://crewclaw.com) | Web | Developer Tools | $9 |
-| [AI2SQL](https://ai2sql.io) | Web | Developer Tools | Freemium |
-| [Awesome OpenClaw Agents](https://github.com/mergisi/awesome-openclaw-agents) | Node.js | Developer Tools | Free |
-| [AI2image](https://ai2image.com) | Web | Graphics & Design | Freemium |
-| [Deep Work Zone](https://deepworkz.one) | Chrome Extension | Productivity | Free |
-| [Prompt Pilot](https://apps.apple.com/us/app/prompt-pilot/id6749590169) | iOS | Productivity | Free |
-| [SQL Prep](https://apps.apple.com/us/app/sql-prep/id6752492649) | iOS | Education | Free |
-| [CRE Flyer Maker](https://apps.apple.com/us/app/cre-flyer-maker/id6752876654) | iOS | Business | Free |
-| [AI Word or Not](https://apps.apple.com/us/app/ai-word-or-not/id6749833661) | iOS | Games | Free |
+### CrewClaw
+[![Website](https://img.shields.io/badge/Website-crewclaw.com-blue)](https://crewclaw.com)
 
-## What is wvw.dev?
+Deploy AI agents in 60 seconds. 103 ready-to-deploy templates across 19 categories. Connect to Telegram, Slack, Discord, WhatsApp.
 
-[World Vibe Web](https://wvw.dev) is an open, decentralized app distribution platform. Developers maintain an `apps.json` in their own repo instead of listing on a centralized store. No fees, no gatekeepers.
+### Awesome OpenClaw Agents
+[![GitHub stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social)](https://github.com/mergisi/awesome-openclaw-agents)
+[![GitHub forks](https://img.shields.io/github/forks/mergisi/awesome-openclaw-agents?style=social)](https://github.com/mergisi/awesome-openclaw-agents)
 
-## apps.json
+103 open source AI agent templates. SOUL.md configurations for the OpenClaw framework.
 
-The [`apps.json`](apps.json) file follows the [wvw.dev schema](https://wvw.dev/apps.schema.json) and contains metadata for all 9 apps across 6 categories.
+---
 
-## Links
+## AI Tools
 
-- [GitHub](https://github.com/mergisi)
-- [CrewClaw](https://crewclaw.com)
-- [AI2SQL](https://ai2sql.io)
+### AI2SQL
+[![Website](https://img.shields.io/badge/Website-ai2sql.io-blue)](https://ai2sql.io)
+
+AI-powered SQL query generator. Natural language to SQL. Supports MySQL, PostgreSQL, MongoDB, SQL Server, Oracle.
+
+### AI2image
+[![Website](https://img.shields.io/badge/Website-ai2image.com-blue)](https://ai2image.com)
+
+AI image generation platform. Studio Ghibli style, realistic, artistic. Prompt templates and high-res output.
+
+---
+
+## iOS Apps
+
+### Prompt Pilot
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple)](https://apps.apple.com/us/app/prompt-pilot/id6749590169)
+
+170+ curated AI prompts and 50 templates for ChatGPT, Claude, and Gemini.
+
+### SQL Prep
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple)](https://apps.apple.com/us/app/sql-prep/id6752492649)
+
+500+ interactive SQL challenges. Practice SELECT, JOIN, subqueries, window functions.
+
+### CRE Flyer Maker
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple)](https://apps.apple.com/us/app/cre-flyer-maker/id6752876654)
+
+Professional commercial real estate flyers in under 3 minutes. Photos, QR codes, PDF export.
+
+### AI Word or Not
+[![App Store](https://img.shields.io/badge/App_Store-Download-black?logo=apple)](https://apps.apple.com/us/app/ai-word-or-not/id6749833661)
+
+Can you tell AI-generated text from human-written? Hundreds of challenges across multiple levels.
+
+---
+
+## Productivity
+
+### Deep Work Zone
+[![Website](https://img.shields.io/badge/Chrome-Extension-green?logo=googlechrome)](https://deepworkz.one)
+
+Block distracting websites. Built-in Pomodoro timer. Focus session tracking.
+
+---
+
+## Distribution
+
+This repo also serves as a [wvw.dev](https://wvw.dev) app store manifest. The [`apps.json`](apps.json) file contains structured metadata for all 9 products.
